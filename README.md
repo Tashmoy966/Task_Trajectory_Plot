@@ -11,6 +11,7 @@ pip install -r requirements.txt
 
 # Run
 python trajectory_plot.py -pt study_monolithic
+
 python trajectory_plot.py -pt study_sequence_of_ILoSA
 
 -pt serves as a argument parser for two seperate experimentation task
