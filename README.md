@@ -1,2 +1,4 @@
 # Task_Trajectory_Plot
-IISC
+
+# Clone Repositorty 
+git clone https://github.com/Tashmoy966/Task_Trajectory_Plot.git
